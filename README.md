@@ -13,8 +13,8 @@
 3. Represent the network of the patterns and possible solutions
 
 ###(PTB)###
-1 - Aplicar os princípios do padrões (baseados em A Linguagem de Padrões) no desenho urbano
-2 - Definir novos padrões adequados ao contexto da cidade de Indaiatuba - SP, Brasil.
-3 - Representar a rede dos padrões e suas possíveis soluções finais.
+1. Aplicar os princípios do padrões (baseados em A Linguagem de Padrões) no desenho urbano
+2. Definir novos padrões adequados ao contexto da cidade de Indaiatuba - SP, Brasil.
+3. Representar a rede dos padrões e suas possíveis soluções finais.
 
 
