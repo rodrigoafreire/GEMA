@@ -6,7 +6,7 @@
 
 
 
-## Objective of the activity
+## Aims of the activity (Objetivos da atividade)
 
 ### ENG
 1. Apply the principles of patterns (from A Pattern Language) in designing urban solutions
