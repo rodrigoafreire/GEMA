@@ -1,3 +1,8 @@
+
+# Pesquisas
+
+Repositório das Pesquisas realizadas no GEMA
+
 # metadesign-works
 
 *(ENG)* Repository for students works applying metadesign processes
