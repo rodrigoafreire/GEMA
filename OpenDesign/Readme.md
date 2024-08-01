@@ -1,3 +1,15 @@
+
+# Info
+
+## research_papers folder
+two papers of our work
+
+## PDF Files
+BRA_Crato_GuiaBebeteca -> opensource library of urban furniture for children
+Microacessibility_Toolkit_World_Bank -> report of the microacessibility toolkit project
+
+# Current Research project
+
 ## Research proposal summary
 
 It is understood that part of the existing problems in social housing can be resolved through spatial reconfiguration, using customized furniture for each dwelling. One possible solution for this scenario is the adoption of digital fabrication associated with metadesign. Metadesign, as the "design of the design process," enables greater adaptability, appropriation, and production capacity of the project. Digital fabrication allows for (1) decentralized production, (2) greater customization of components, and lower equipment costs (open-source technologies). Therefore, the central hypothesis of the research investigates whether these approaches, by promoting decentralized and collaborative production, can financially solve some of the recurring problems in social housing. The research falls within the context of Design Science Research and aims to conceive and validate the metadesign (system) to improve interventions in social housing (existing situation). To this end, it seeks to understand the main problems related to spatial configuration in social housing and examples of existing and shared furniture on open platforms. From this study, the proposal is to construct a metadesign model to be applied in a participatory workshop with residents of three social housing units. The results of the workshop will serve as the basis for prototyping customized furniture pieces. The installation in the selected dwellings will then be evaluated and compared with the use of conventional furniture. The expected impacts include contributing to the democratization of design and architecture, improving the quality of living spaces in social housing, promoting community appropriation of the developed solutions, and reducing costs for adapting living spaces. The project promises to offer an alternative to the current furniture production model, standing out for its adoption of distributed and more accessible digital fabrication.
